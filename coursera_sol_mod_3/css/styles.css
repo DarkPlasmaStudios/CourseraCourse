@@ -50,6 +50,10 @@ body {
 
 /** MAIN CONTENT **/
 
+#Heading {
+    text-align: center;
+}
+
 .main-content{
     height: 1000px;
     background-color: #1d2124;
